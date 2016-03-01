@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>time</key>
+		<string>3:53</string>
+		<key>icon</key>
+		<string>1</string>
+		<key>singericon</key>
+		<string>10</string>
+		<key>singer</key>
+		<string>陈粒</string>
+		<key>filename</key>
+		<string>不灭.mp3</string>
+		<key>name</key>
+		<string>不灭</string>
+	</dict>
+	<dict>
+		<key>time</key>
+		<string>5:35</string>
+		<key>icon</key>
+		<string>2</string>
+		<key>singericon</key>
+		<string>11</string>
+		<key>singer</key>
+		<string>张学友</string>
+		<key>filename</key>
+		<string>爱火花.mp3</string>
+		<key>name</key>
+		<string>爱火花</string>
+	</dict>
+	<dict>
+		<key>time</key>
+		<string>4:33</string>
+		<key>icon</key>
+		<string>3</string>
+		<key>singericon</key>
+		<string>11</string>
+		<key>singer</key>
+		<string>张学友</string>
+		<key>filename</key>
+		<string>饿狼传说.mp3</string>
+		<key>name</key>
+		<string>饿狼传说</string>
+	</dict>
+	<dict>
+		<key>time</key>
+		<string>3:35</string>
+		<key>icon</key>
+		<string>3</string>
+		<key>singericon</key>
+		<string>11</string>
+		<key>singer</key>
+		<string>张学友</string>
+		<key>filename</key>
+		<string>如果这都不算爱.mp3</string>
+		<key>name</key>
+		<string>如果这都不算爱</string>
+	</dict>
+</array>
+</plist>
